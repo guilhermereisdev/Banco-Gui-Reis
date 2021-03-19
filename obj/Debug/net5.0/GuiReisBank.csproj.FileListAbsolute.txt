@@ -1,0 +1,16 @@
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.AssemblyInfo.cs
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\bin\Debug\net5.0\GuiReisBank.exe
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\bin\Debug\net5.0\GuiReisBank.deps.json
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\bin\Debug\net5.0\GuiReisBank.runtimeconfig.json
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\bin\Debug\net5.0\GuiReisBank.runtimeconfig.dev.json
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\bin\Debug\net5.0\GuiReisBank.dll
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\bin\Debug\net5.0\ref\GuiReisBank.dll
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\bin\Debug\net5.0\GuiReisBank.pdb
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.dll
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\ref\GuiReisBank.dll
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.pdb
+C:\Users\guilh\Documents\Csharp-examples\GuiReisBank\obj\Debug\net5.0\GuiReisBank.genruntimeconfig.cache
